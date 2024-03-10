@@ -57,7 +57,9 @@ picom
 ## ## Package / Theme
 ##
 
+gtk-engines
 gtk-engine-murrine
+
 qt5-svg
 qt6-svg
 
