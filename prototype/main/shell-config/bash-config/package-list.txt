@@ -12,3 +12,4 @@
 ##
 
 bash
+bash-completion
