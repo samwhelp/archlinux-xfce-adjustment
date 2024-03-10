@@ -58,6 +58,8 @@ picom
 ##
 
 gtk-engine-murrine
+qt5-svg
+qt6-svg
 
 
 
@@ -97,7 +99,7 @@ arc-gtk-theme
 ## ## Package / Theme / breeze-theme
 ##
 
-#breeze
+breeze
 breeze-gtk
 breeze-icons
 
@@ -144,7 +146,13 @@ thunar
 ##
 
 mousepad
+vim
+micro
 
+featherpad
+feathernotes
+
+geany
 
 
 
