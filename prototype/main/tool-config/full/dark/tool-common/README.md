@@ -1,5 +1,14 @@
 
+
 # Tool
+
+
+## Arch Wiki
+
+* https://wiki.archlinux.org/title/Arch_User_Repository
+* https://archlinux.org/packages/core/any/base-devel/
+
+
 
 
 ## Config File Path
