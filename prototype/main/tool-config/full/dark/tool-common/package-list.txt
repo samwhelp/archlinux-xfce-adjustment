@@ -26,6 +26,18 @@ xdg-utils
 
 
 ##
+## ## Package / Shell
+##
+
+bash
+bash-completion
+
+fzf
+
+
+
+
+##
 ## ## Package / Develop
 ##
 
