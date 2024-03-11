@@ -10,16 +10,7 @@
 ##
 ## * https://wiki.archlinux.org/title/Arch_User_Repository
 ## * https://archlinux.org/packages/core/any/base-devel/
-
-
-
-
 ##
-## ## Package / Lubuntu
-##
-
-#lubuntu-restricted-addons
-#lubuntu-restricted-extras
 
 
 
