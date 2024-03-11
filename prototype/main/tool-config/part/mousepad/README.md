@@ -3,11 +3,11 @@
 # Mousepad
 
 
-## Ubuntu Package
+## Arch Package
 
-| Ubuntu Package |
+| Arch Package |
 | --- |
-| [mousepad](https://packages.ubuntu.com/noble/mousepad) |
+| [mousepad](https://archlinux.org/packages/extra/x86_64/mousepad/) |
 
 
 

@@ -9,11 +9,11 @@
 | [~/.vim/vimrc](./asset/overlay/etc/skel/.vim/vimrc) |
 
 
-## Ubuntu Package
+## Arch Package
 
-| Ubuntu Package |
+| Arch Package |
 | --- |
-| [vim](https://packages.ubuntu.com/noble/vim) |
+| [vim](https://archlinux.org/packages/extra/x86_64/vim/) |
 
 
 

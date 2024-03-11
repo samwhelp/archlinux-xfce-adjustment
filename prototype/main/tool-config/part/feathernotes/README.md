@@ -9,11 +9,11 @@
 | [~/.config/feathernotes/fn.conf](./asset/overlay/etc/skel/.config/feathernotes/fn.conf) |
 
 
-## Ubuntu Package
+## Arch Package
 
-| Ubuntu Package |
+| Arch Package |
 | --- |
-| [feathernotes](https://packages.ubuntu.com/noble/feathernotes) |
+| [feathernotes](https://archlinux.org/packages/extra/x86_64/feathernotes/) |
 
 
 

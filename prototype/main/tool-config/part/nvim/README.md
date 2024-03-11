@@ -9,11 +9,11 @@
 | [~/.config/nvim/init.vim](./asset/overlay/etc/skel/.config/nvim/init.vim) |
 
 
-## Ubuntu Package
+## Arch Package
 
-| Ubuntu Package |
+| Arch Package |
 | --- |
-| [neovim](https://packages.ubuntu.com/noble/neovim) |
+| [neovim](https://archlinux.org/packages/extra/x86_64/neovim/) |
 
 
 

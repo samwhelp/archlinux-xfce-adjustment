@@ -9,11 +9,11 @@
 | [~/.config/qterminal.org/qterminal.ini](./asset/overlay/etc/skel/.config/qterminal.org/qterminal.ini) |
 
 
-## Ubuntu Package
+## Arch Package
 
-| Ubuntu Package |
+| Arch Package |
 | --- |
-| [qterminal](https://packages.ubuntu.com/noble/qterminal) |
+| [qterminal](https://archlinux.org/packages/extra/x86_64/qterminal/) |
 
 
 

@@ -12,11 +12,13 @@
 | [~/.config/geany/colorschemes/](./asset/overlay/etc/skel/.config/geany/colorschemes) |
 
 
-## Ubuntu Package
+## Arch Package
 
-| Ubuntu Package |
+| Arch Package |
 | --- |
-| [geany](https://packages.ubuntu.com/noble/geany) |
+| [geany](https://archlinux.org/packages/extra/x86_64/geany/) |
+
+
 
 
 ## Link
@@ -25,6 +27,8 @@
 | ---- |
 | Geany / [Themes](https://www.geany.org/download/themes/)        |
 | GitHub / [geany-themes](https://github.com/geany/geany-themes)  |
+
+
 
 
 ## Usage

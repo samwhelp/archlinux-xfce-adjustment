@@ -9,11 +9,11 @@
 | [~/.config/micro/settings.json](./asset/overlay/etc/skel/.config/micro/settings.json) |
 
 
-## Ubuntu Package
+## Arch Package
 
-| Ubuntu Package |
+| Arch Package |
 | --- |
-| [micro](https://packages.ubuntu.com/noble/micro) |
+| [micro](https://archlinux.org/packages/extra/x86_64/micro/) |
 
 
 

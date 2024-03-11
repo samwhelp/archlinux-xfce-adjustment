@@ -11,11 +11,11 @@
 | [~/.config/featherpad/fp_light_syntax_colors.conf](./asset/overlay/etc/skel/.config/featherpad/fp_light_syntax_colors.conf) |
 
 
-## Ubuntu Package
+## Arch Package
 
-| Ubuntu Package |
+| Arch Package |
 | --- |
-| [featherpad](https://packages.ubuntu.com/noble/featherpad) |
+| [featherpad](https://archlinux.org/packages/extra/x86_64/featherpad/) |
 
 
 

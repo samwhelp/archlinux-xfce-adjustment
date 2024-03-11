@@ -13,11 +13,11 @@
 | [~/.config/pcmanfm-qt/lxqt/settings.conf](./asset/overlay/etc/skel/.config/pcmanfm-qt/lxqt/settings.conf) |
 
 
-## Ubuntu Package
+## Arch Package
 
-| Ubuntu Package |
+| Arch Package |
 | --- |
-| [pcmanfm-qt](https://packages.ubuntu.com/noble/pcmanfm-qt) |
+| [pcmanfm-qt](https://archlinux.org/packages/extra/x86_64/pcmanfm-qt/) |
 
 
 
