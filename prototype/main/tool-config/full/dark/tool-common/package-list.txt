@@ -73,6 +73,7 @@ rofi
 ##
 
 xfce4-terminal
+qterminal
 #sakura
 
 
