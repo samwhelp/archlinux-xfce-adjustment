@@ -85,6 +85,7 @@ thunar
 
 mousepad
 vim
+neovim
 micro
 
 featherpad
