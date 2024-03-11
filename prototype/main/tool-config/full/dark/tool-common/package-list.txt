@@ -43,6 +43,13 @@ php
 tree
 less
 
+curl
+wget
+git
+
+lynx
+w3m
+
 
 
 
