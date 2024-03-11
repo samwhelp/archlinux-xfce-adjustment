@@ -11,7 +11,7 @@
 ## ## Package / font
 ##
 
-fonts-dejavu
+ttf-dejavu
 
 
 ttf-ubuntu-font-family
