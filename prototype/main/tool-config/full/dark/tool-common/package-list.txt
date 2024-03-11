@@ -16,6 +16,15 @@
 
 
 ##
+## ## Package / Base
+##
+
+xdg-user-dirs
+
+
+
+
+##
 ## ## Package / Develop
 ##
 
@@ -29,7 +38,6 @@ php
 ##
 ## ## Package / Util
 ##
-
 
 tree
 less
