@@ -2,7 +2,7 @@
 Categories=Utility;
 Comment=Feh Desktop (Only Wallpaper)
 Exec=feh --bg-fill --randomize /usr/share/backgrounds/xfce/
-#Exec=feh -bg-fill /usr/share/backgrounds/xfce/Butterfly.jpg
+#Exec=feh --bg-fill /usr/share/backgrounds/xfce/Butterfly.jpg
 GenericName=Feh Desktop
 Hidden=true
 Icon=picom
