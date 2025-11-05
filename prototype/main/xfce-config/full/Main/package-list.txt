@@ -41,8 +41,8 @@ xfce4-goodies
 ## ## Package / Theme
 ##
 
-gtk-engines
-gtk-engine-murrine
+#gtk-engines
+#gtk-engine-murrine
 
 qt5-svg
 qt6-svg
@@ -75,8 +75,17 @@ papirus-icon-theme
 ## ## Package  / Theme / arc-theme
 ##
 
-arc-gtk-theme
+#arc-gtk-theme
 #arc-icon-theme
+
+
+
+
+##
+## ## Package  / Theme / orchis-theme
+##
+
+orchis-theme
 
 
 
@@ -103,7 +112,7 @@ breeze-icons
 ## ## Package / Tool / Launcher
 ##
 
-rofi
+#rofi
 
 
 
